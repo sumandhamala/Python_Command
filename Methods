@@ -1,0 +1,12 @@
+1) To find index of a particular element in an array, tuple and dictionary
+Index = Variable.index(value of which index needs to be find)
+Example1:    A=[1,2,3] # an array 
+            Index=A.index(2) # command to find index of the element 2
+            print(Index)      # print the index 
+            
+Example2:  # Python tuple index() Method  
+          val = ('a','b','c','d')   # Creating a dictionary 
+          print(val)  
+          # Calling Method  
+          index = val.index('d')  # Finds index  
+          print("Index of k is: ",index)  
