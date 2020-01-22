@@ -1,7 +1,7 @@
 **Suman Dhamala**
 1. **Difference between sequence (list, tuple, string) and collection (dictionary, set, frozenset)**.
- 	[Numeric_List or python array = [2, 8, 1, 4, 6, 3, 7] ]
-	      [ List = ['q', 'w', 'r', 'e', 't', 'y'] ]
+ 	-[Numeric_List or python array = [2, 8, 1, 4, 6, 3, 7] ]
+	     - [ List = ['q', 'w', 'r', 'e', 't', 'y'] ]
 	       Tuple = ('q', 'w', 'e', 'r', 't', 'y') 
 	       Dictionary = {'q':1, 'w':2, 'e':3, 'r':4, 't':5, 'y':6} 
                     set = {'q', 'w', 'e', 'r', 't', 'y'} 
