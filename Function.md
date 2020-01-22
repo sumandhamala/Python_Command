@@ -1,4 +1,4 @@
-**Suman Dhamala**
+**Basic methods and functions in Python**
 1. **Difference between sequence (list, tuple, string) and collection (dictionary, set, frozenset)**.
  	* Numeric_List or python array = [2, 8, 1, 4, 6, 3, 7] 
 	* List = ['q', 'w', 'r', 'e', 't', 'y'] 
@@ -8,8 +8,8 @@
         * Frozenset = frozenset(('q', 'w', 'e', 'r', 't', 'y')) 
 	        
 2. **To find index of a particular element in an array, tuple and dictionary.**
-Index = Variable.index(value of which index needs to be find)
-Example1:    A=[1,2,3] # an array 
+   Index = Variable.index(value of which index needs to be find)
+   Example1: A=[1,2,3] # an array 
             Index=A.index(2) # command to find index of the element 2
             print(Index)      # print the index 
             
